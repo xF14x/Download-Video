@@ -1,7 +1,7 @@
-# pip3 install pafy {From Terminal}
+# pip install pafy { From CMD }
 from pafy import new
 from os import system
-system("clear")
+system("cls")
 video = input("Pleas Enter video url : ")
 print("The Video is Downloading...")
 print("")
