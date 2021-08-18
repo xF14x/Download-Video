@@ -1,4 +1,3 @@
-# pip3 install pafy { From Terminal }
 from pafy import new
 from os import system
 system("clear")

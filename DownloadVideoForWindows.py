@@ -1,4 +1,3 @@
-# pip install pafy { From CMD }
 from pafy import new
 from os import system
 system("cls")
